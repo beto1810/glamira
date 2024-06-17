@@ -7,9 +7,8 @@
 # :books: Table of Contents <!-- omit in toc -->
 
 - [:briefcase: Business Case and Requirement](#briefcase-business-case-and-requirement)
-- [:bookmark_tabs:Example Datasets](#bookmark_tabsexample-datasets)
-- [A. Analysis](#a-data-analysis)
-- [B. Building Machine Learning Model](#)
+- [:bookmark_tabs:Example Product Dictionary](#bookmark_tabsexample-product-dictionay)
+
 
 - [📃 What can you practice with this case study?](#what-can-you-practice-with-this-case-study)
 
