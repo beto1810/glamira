@@ -1,0 +1,822 @@
+{
+    "Jewelry": {
+        "category_link": "https://www.glamira.com/jewelry/",
+        "category_id": 1042
+    },
+    "men": {
+        "category_link": "https://www.glamira.com/men/",
+        "category_id": 455
+    },
+    "kids": {
+        "category_link": "https://www.glamira.com/kids/",
+        "category_id": 457
+    },
+    "promise-rings": {
+        "category_link": "https://www.glamira.com/promise-rings/",
+        "category_id": 16
+    },
+    "kids-rings": {
+        "category_link": "https://www.glamira.com/kids-rings/",
+        "category_id": 62
+    },
+    "Women's Jewelry": {
+        "category_link": "https://www.glamira.com/women/",
+        "category_id": 456
+    },
+    "Ring Catalog": {
+        "category_link": "https://www.glamira.com/rings-home/",
+        "category_id": 735
+    },
+    "diamond-rings": {
+        "category_link": "https://www.glamira.com/diamond-rings/",
+        "category_id": 27
+    },
+    "kids-earrings": {
+        "category_link": "https://www.glamira.com/kids-earrings/",
+        "category_id": 63
+    },
+    "kids-bracelet": {
+        "category_link": "https://www.glamira.com/kids-bracelet/",
+        "category_id": 58
+    },
+    "Earrings Catalog": {
+        "category_link": "https://www.glamira.com/earrings-home/",
+        "category_id": 736
+    },
+    "diamond-earrings": {
+        "category_link": "https://www.glamira.com/diamond-earrings/",
+        "category_id": 602
+    },
+    "initial-name-jewelry": {
+        "category_link": "https://www.glamira.com/initial-name-jewelry/",
+        "category_id": 623
+    },
+    "engagement-rings": {
+        "category_link": "https://www.glamira.com/engagement-rings/",
+        "category_id": 605
+    },
+    "diamond-men-ring": {
+        "category_link": "https://www.glamira.com/diamond-men-ring/",
+        "category_id": 617
+    },
+    "bracelets": {
+        "category_link": "https://www.glamira.com/bracelets/",
+        "category_id": 624
+    },
+    "wedding-set": {
+        "category_link": "https://www.glamira.com/wedding-set/",
+        "category_id": 627
+    },
+    "kids-necklace": {
+        "category_link": "https://www.glamira.com/kids-necklace/",
+        "category_id": 61
+    },
+    "bridal-set": {
+        "category_link": "https://www.glamira.com/bridal-set/",
+        "category_id": 625
+    },
+    "Necklace Catalog": {
+        "category_link": "https://www.glamira.com/necklaces-home/",
+        "category_id": 737
+    },
+    "diamond-necklaces": {
+        "category_link": "https://www.glamira.com/diamond-necklaces/",
+        "category_id": 601
+    },
+    "cufflinks": {
+        "category_link": "https://www.glamira.com/cufflinks/",
+        "category_id": 54
+    },
+    "colliers": {
+        "category_link": "https://www.glamira.com/colliers/",
+        "category_id": 687
+    },
+    "Wedding Rings": {
+        "category_link": "https://www.glamira.com/wedding-rings/",
+        "category_id": 688
+    },
+    "women-ring": {
+        "category_link": "https://www.glamira.com/women-ring/",
+        "category_id": 689
+    },
+    "brooch": {
+        "category_link": "https://www.glamira.com/brooch/",
+        "category_id": 645
+    },
+    "Plain Design Jewelry": {
+        "category_link": "https://www.glamira.com/plain-design-jewelry/",
+        "category_id": 740
+    },
+    "plain-design-rings": {
+        "category_link": "https://www.glamira.com/plain-design-rings/",
+        "category_id": 719
+    },
+    "plain-design-necklaces": {
+        "category_link": "https://www.glamira.com/plain-design-necklaces/",
+        "category_id": 720
+    },
+    "men-ring": {
+        "category_link": "https://www.glamira.com/men-ring/",
+        "category_id": 690
+    },
+    "plain-design-earrings": {
+        "category_link": "https://www.glamira.com/plain-design-earrings/",
+        "category_id": 721
+    },
+    "Nose Piercings": {
+        "category_link": "https://www.glamira.com/nose-piercings/",
+        "category_id": 1048
+    },
+    "nose-pins": {
+        "category_link": "https://www.glamira.com/nose-pins/",
+        "category_id": 745
+    },
+    "collections": {
+        "category_link": "https://www.glamira.com/collections/",
+        "category_id": 756
+    },
+    "men-s-earrings": {
+        "category_link": "https://www.glamira.com/men-s-earrings/",
+        "category_id": 746
+    },
+    "plain-design-bracelets": {
+        "category_link": "https://www.glamira.com/plain-design-bracelets/",
+        "category_id": 750
+    },
+    "anklets": {
+        "category_link": "https://www.glamira.com/anklets/",
+        "category_id": 752
+    },
+    "initial-name-rings": {
+        "category_link": "https://www.glamira.com/initial-name-rings/",
+        "category_id": 758
+    },
+    "enamel": {
+        "category_link": "https://www.glamira.com/enamel/",
+        "category_id": 760
+    },
+    "knuckle-rings": {
+        "category_link": "https://www.glamira.com/knuckle-rings/",
+        "category_id": 751
+    },
+    "initial-name-bracelets": {
+        "category_link": "https://www.glamira.com/initial-name-bracelets/",
+        "category_id": 754
+    },
+    "initial-name-necklaces": {
+        "category_link": "https://www.glamira.com/initial-name-necklaces/",
+        "category_id": 753
+    },
+    "PEARL": {
+        "category_link": "https://www.glamira.com/pearl/",
+        "category_id": 762
+    },
+    "pearl-rings": {
+        "category_link": "https://www.glamira.com/pearl-rings/",
+        "category_id": 763
+    },
+    "pearl-necklaces": {
+        "category_link": "https://www.glamira.com/pearl-necklaces/",
+        "category_id": 764
+    },
+    "dual-use": {
+        "category_link": "https://www.glamira.com/dual-use/",
+        "category_id": 761
+    },
+    "pearl-earrings": {
+        "category_link": "https://www.glamira.com/pearl-earrings/",
+        "category_id": 765
+    },
+    "Cabochon Jewelry": {
+        "category_link": "https://www.glamira.com/cabochon-jewelry/",
+        "category_id": 808
+    },
+    "cabochon-rings": {
+        "category_link": "https://www.glamira.com/cabochon-rings/",
+        "category_id": 805
+    },
+    "cabochon-earrings": {
+        "category_link": "https://www.glamira.com/cabochon-earrings/",
+        "category_id": 807
+    },
+    "chains": {
+        "category_link": "https://www.glamira.com/chains/",
+        "category_id": 770
+    },
+    "cocktail-rings": {
+        "category_link": "https://www.glamira.com/cocktail-rings/",
+        "category_id": 812
+    },
+    "coloured-diamond-engagement-rings": {
+        "category_link": "https://www.glamira.com/coloured-diamond-engagement-rings/",
+        "category_id": 814
+    },
+    "cabochon-necklaces": {
+        "category_link": "https://www.glamira.com/cabochon-necklaces/",
+        "category_id": 806
+    },
+    "premium-rings": {
+        "category_link": "https://www.glamira.com/premium-rings/",
+        "category_id": 817
+    },
+    "dreamy-hues": {
+        "category_link": "https://www.glamira.com/dreamy-hues/",
+        "category_id": 815
+    },
+    "mens-bracelets": {
+        "category_link": "https://www.glamira.com/mens-bracelets/",
+        "category_id": 839
+    },
+    "initial-name-earrings": {
+        "category_link": "https://www.glamira.com/initial-name-earrings/",
+        "category_id": 850
+    },
+    "Fusion": {
+        "category_link": "https://www.glamira.com/fusion/",
+        "category_id": 851
+    },
+    "fusion-necklaces": {
+        "category_link": "https://www.glamira.com/fusion-necklaces/",
+        "category_id": 853
+    },
+    "fusion-rings": {
+        "category_link": "https://www.glamira.com/fusion-rings/",
+        "category_id": 852
+    },
+    "men-s-necklaces": {
+        "category_link": "https://www.glamira.com/men-s-necklaces/",
+        "category_id": 849
+    },
+    "black-touch-collection": {
+        "category_link": "https://www.glamira.com/black-touch-collection/",
+        "category_id": 858
+    },
+    "fusion-bracelets": {
+        "category_link": "https://www.glamira.com/fusion-bracelets/",
+        "category_id": 855
+    },
+    "cabochon-bracelets": {
+        "category_link": "https://www.glamira.com/cabochon-bracelets/",
+        "category_id": 878
+    },
+    "glamira-x-influencers": {
+        "category_link": "https://www.glamira.com/glamira-x-influencers/",
+        "category_id": 922
+    },
+    "fusion-earrings": {
+        "category_link": "https://www.glamira.com/fusion-earrings/",
+        "category_id": 854
+    },
+    "iryna-fedchenko-collection": {
+        "category_link": "https://www.glamira.com/iryna-fedchenko-collection/",
+        "category_id": 924
+    },
+    "rachele-moscatelli-collection": {
+        "category_link": "https://www.glamira.com/rachele-moscatelli-collection/",
+        "category_id": 927
+    },
+    "sonia-collection": {
+        "category_link": "https://www.glamira.com/sonia-collection/",
+        "category_id": 929
+    },
+    "lee-ann-wiemers-collection": {
+        "category_link": "https://www.glamira.com/lee-ann-wiemers-collection/",
+        "category_id": 932
+    },
+    "authenticchica-collection": {
+        "category_link": "https://www.glamira.com/authenticchica-collection/",
+        "category_id": 933
+    },
+    "julia-mateian-collection": {
+        "category_link": "https://www.glamira.com/julia-mateian-collection/",
+        "category_id": 935
+    },
+    "desiree-santana-collection": {
+        "category_link": "https://www.glamira.com/desiree-santana-collection/",
+        "category_id": 934
+    },
+    "antoine-constantin-collection": {
+        "category_link": "https://www.glamira.com/antoine-constantin-collection/",
+        "category_id": 939
+    },
+    "simone-cipolloni-collection": {
+        "category_link": "https://www.glamira.com/simone-cipolloni-collection/",
+        "category_id": 940
+    },
+    "valentina-coco-collection": {
+        "category_link": "https://www.glamira.com/valentina-coco-collection/",
+        "category_id": 941
+    },
+    "malika-mydailyfdose-collection": {
+        "category_link": "https://www.glamira.com/malika-mydailyfdose-collection/",
+        "category_id": 942
+    },
+    "tropical-collection": {
+        "category_link": "https://www.glamira.com/tropical-collection/",
+        "category_id": 943
+    },
+    "organic-design-collection": {
+        "category_link": "https://www.glamira.com/organic-design-collection/",
+        "category_id": 915
+    },
+    "love-universe-collection": {
+        "category_link": "https://www.glamira.com/love-universe-collection/",
+        "category_id": 944
+    },
+    "annabel-pesant-collection": {
+        "category_link": "https://www.glamira.com/annabel-pesant-collection/",
+        "category_id": 926
+    },
+    "isabel-tonelli-collection": {
+        "category_link": "https://www.glamira.com/isabel-tonelli-collection/",
+        "category_id": 928
+    },
+    "the-north-star-love-universe": {
+        "category_link": "https://www.glamira.com/the-north-star-love-universe/",
+        "category_id": 945
+    },
+    "the-supernova-love-universe": {
+        "category_link": "https://www.glamira.com/the-supernova-love-universe/",
+        "category_id": 947
+    },
+    "Ceramic Jewelry": {
+        "category_link": "https://www.glamira.com/ceramic-jewellery/",
+        "category_id": 948
+    },
+    "ring-ceramic": {
+        "category_link": "https://www.glamira.com/ring-ceramic/",
+        "category_id": 951
+    },
+    "necklaces-ceramic": {
+        "category_link": "https://www.glamira.com/necklaces-ceramic/",
+        "category_id": 952
+    },
+    "the-star-of-venus-love-universe": {
+        "category_link": "https://www.glamira.com/the-star-of-venus-love-universe/",
+        "category_id": 946
+    },
+    "mens-ceramic-jewellery": {
+        "category_link": "https://www.glamira.com/mens-ceramic-jewellery/",
+        "category_id": 955
+    },
+    "earrings-ceramic": {
+        "category_link": "https://www.glamira.com/earrings-ceramic/",
+        "category_id": 953
+    },
+    "bracelets-ceramic": {
+        "category_link": "https://www.glamira.com/bracelets-ceramic/",
+        "category_id": 954
+    },
+    "mens-engagement-ring": {
+        "category_link": "https://www.glamira.com/mens-engagement-ring/",
+        "category_id": 938
+    },
+    "cristina-surdu-collection": {
+        "category_link": "https://www.glamira.com/cristina-surdu-collection/",
+        "category_id": 930
+    },
+    "neon-vibes-collection": {
+        "category_link": "https://www.glamira.com/neon-vibes-collection/",
+        "category_id": 963
+    },
+    "loveluvverb-collection": {
+        "category_link": "https://www.glamira.com/loveluvverb-collection/",
+        "category_id": 976
+    },
+    "sylvie-by-glamira": {
+        "category_link": "https://www.glamira.com/sylvie-by-glamira/",
+        "category_id": 988
+    },
+    "sylvie-by-glamira-necklaces": {
+        "category_link": "https://www.glamira.com/sylvie-by-glamira-necklaces/",
+        "category_id": 990
+    },
+    "every-colour-loveluvverb-collection": {
+        "category_link": "https://www.glamira.com/every-colour-loveluvverb-collection/",
+        "category_id": 978
+    },
+    "sylvie-by-glamira-rings": {
+        "category_link": "https://www.glamira.com/sylvie-by-glamira-rings/",
+        "category_id": 989
+    },
+    "pure-loveluvverb-collection": {
+        "category_link": "https://www.glamira.com/pure-loveluvverb-collection/",
+        "category_id": 977
+    },
+    "sylvie-by-glamira-bracelets": {
+        "category_link": "https://www.glamira.com/sylvie-by-glamira-bracelets/",
+        "category_id": 992
+    },
+    "sylvie-by-glamira-earrings": {
+        "category_link": "https://www.glamira.com/sylvie-by-glamira-earrings/",
+        "category_id": 991
+    },
+    "eliza-armand-collection": {
+        "category_link": "https://www.glamira.com/eliza-armand-collection/",
+        "category_id": 931
+    },
+    "fearless-loveluvverb-collection": {
+        "category_link": "https://www.glamira.com/fearless-loveluvverb-collection/",
+        "category_id": 979
+    },
+    "Amanda Cerny": {
+        "category_link": "https://www.glamira.com/amanda-cerny-finest-selection/",
+        "category_id": 993
+    },
+    "amanda-cerny-collection-rings": {
+        "category_link": "https://www.glamira.com/amanda-cerny-collection-rings/",
+        "category_id": 994
+    },
+    "amanda-cerny-collection-necklaces": {
+        "category_link": "https://www.glamira.com/amanda-cerny-collection-necklaces/",
+        "category_id": 995
+    },
+    "amanda-cerny-collection-earrings": {
+        "category_link": "https://www.glamira.com/amanda-cerny-collection-earrings/",
+        "category_id": 996
+    },
+    "amanda-cerny-collection-bracelets": {
+        "category_link": "https://www.glamira.com/amanda-cerny-collection-bracelets/",
+        "category_id": 997
+    },
+    "ear-piercings": {
+        "category_link": "https://www.glamira.com/ear-piercings/",
+        "category_id": 1014
+    },
+    "colourful-rings": {
+        "category_link": "https://www.glamira.com/colourful-rings/",
+        "category_id": 999
+    },
+    "amanda-cerny-collection-men": {
+        "category_link": "https://www.glamira.com/amanda-cerny-collection-men/",
+        "category_id": 998
+    },
+    "genuine-collection": {
+        "category_link": "https://www.glamira.com/genuine-collection/",
+        "category_id": 1017
+    },
+    "necklace-chain": {
+        "category_link": "https://www.glamira.com/necklace-chain/",
+        "category_id": 1021
+    },
+    "connection-genuine-collection": {
+        "category_link": "https://www.glamira.com/connection-genuine-collection/",
+        "category_id": 1020
+    },
+    "bracelet-chain": {
+        "category_link": "https://www.glamira.com/bracelet-chain/",
+        "category_id": 1022
+    },
+    "hope-genuine-collection": {
+        "category_link": "https://www.glamira.com/hope-genuine-collection/",
+        "category_id": 1018
+    },
+    "essence-genuine-collection": {
+        "category_link": "https://www.glamira.com/essence-genuine-collection/",
+        "category_id": 1019
+    },
+    "promise-rings-women": {
+        "category_link": "https://www.glamira.com/promise-rings-women/",
+        "category_id": 1023
+    },
+    "promise-rings-couple": {
+        "category_link": "https://www.glamira.com/promise-rings-couple/",
+        "category_id": 1025
+    },
+    "Evil Eye": {
+        "category_link": "https://www.glamira.com/evil-eye-collection/",
+        "category_id": 1026
+    },
+    "rings-evil": {
+        "category_link": "https://www.glamira.com/rings-evil/",
+        "category_id": 1031
+    },
+    "necklace-evil": {
+        "category_link": "https://www.glamira.com/necklace-evil/",
+        "category_id": 1032
+    },
+    "bracelets-evil": {
+        "category_link": "https://www.glamira.com/bracelets-evil/",
+        "category_id": 1034
+    },
+    "accessories-evil": {
+        "category_link": "https://www.glamira.com/accessories-evil/",
+        "category_id": 1035
+    },
+    "hand-of-hamsa-collection": {
+        "category_link": "https://www.glamira.com/hand-of-hamsa-collection/",
+        "category_id": 1036
+    },
+    "earrings-evil": {
+        "category_link": "https://www.glamira.com/earrings-evil/",
+        "category_id": 1033
+    },
+    "hand-of-hamsa-collection-necklaces": {
+        "category_link": "https://www.glamira.com/hand-of-hamsa-collection-necklaces/",
+        "category_id": 1038
+    },
+    "hand-of-hamsa-collection-rings": {
+        "category_link": "https://www.glamira.com/hand-of-hamsa-collection-rings/",
+        "category_id": 1037
+    },
+    "hand-of-hamsa-collection-bracelets": {
+        "category_link": "https://www.glamira.com/hand-of-hamsa-collection-bracelets/",
+        "category_id": 1040
+    },
+    "hand-of-hamsa-collection-earrings": {
+        "category_link": "https://www.glamira.com/hand-of-hamsa-collection-earrings/",
+        "category_id": 1039
+    },
+    "hand-of-hamsa-collection-accessories": {
+        "category_link": "https://www.glamira.com/hand-of-hamsa-collection-accessories/",
+        "category_id": 1041
+    },
+    "nose-rings": {
+        "category_link": "https://www.glamira.com/nose-rings/",
+        "category_id": 1049
+    },
+    "tragus-ear-piercings": {
+        "category_link": "https://www.glamira.com/tragus-ear-piercings/",
+        "category_id": 1051
+    },
+    "stronger-together1": {
+        "category_link": "https://www.glamira.com/stronger-together1/",
+        "category_id": 1053
+    },
+    "tamara": {
+        "category_link": "https://www.glamira.com/tamara/",
+        "category_id": 1054
+    },
+    "tech-jewellery": {
+        "category_link": "https://www.glamira.com/tech-jewellery/",
+        "category_id": 1059
+    },
+    "rod-ear-cuffs-ear-piercings": {
+        "category_link": "https://www.glamira.com/rod-ear-cuffs-ear-piercings/",
+        "category_id": 1060
+    },
+    "cartilage-ear-piercings": {
+        "category_link": "https://www.glamira.com/cartilage-ear-piercings/",
+        "category_id": 1062
+    },
+    "promise-rings-men": {
+        "category_link": "https://www.glamira.com/promise-rings-men/",
+        "category_id": 1024
+    },
+    "apple-watch-cases": {
+        "category_link": "https://www.glamira.com/apple-watch-cases/",
+        "category_id": 1063
+    },
+    "airpods-accessories": {
+        "category_link": "https://www.glamira.com/airpods-accessories/",
+        "category_id": 1064
+    },
+    "apple-watch-cases-tech-jewellery": {
+        "category_link": "https://www.glamira.com/apple-watch-cases-tech-jewellery/",
+        "category_id": 1066
+    },
+    "body-jewellery": {
+        "category_link": "https://www.glamira.com/body-jewellery/",
+        "category_id": 1050
+    },
+    "bangles-tech-jewellery": {
+        "category_link": "https://www.glamira.com/bangles-tech-jewellery/",
+        "category_id": 1068
+    },
+    "you": {
+        "category_link": "https://www.glamira.com/you/",
+        "category_id": 1070
+    },
+    "apple-watch-accessories": {
+        "category_link": "https://www.glamira.com/apple-watch-accessories/",
+        "category_id": 1067
+    },
+    "you-rings": {
+        "category_link": "https://www.glamira.com/you-rings/",
+        "category_id": 1071
+    },
+    "you-necklaces": {
+        "category_link": "https://www.glamira.com/you-necklaces/",
+        "category_id": 1072
+    },
+    "you-earrings": {
+        "category_link": "https://www.glamira.com/you-earrings/",
+        "category_id": 1073
+    },
+    "links-collection": {
+        "category_link": "https://www.glamira.com/links-collection/",
+        "category_id": 1075
+    },
+    "you-bracelets": {
+        "category_link": "https://www.glamira.com/you-bracelets/",
+        "category_id": 1074
+    },
+    "links-collection-necklaces": {
+        "category_link": "https://www.glamira.com/links-collection-necklaces/",
+        "category_id": 1077
+    },
+    "links-collection-bracelets": {
+        "category_link": "https://www.glamira.com/links-collection-bracelets/",
+        "category_id": 1079
+    },
+    "links-collection-rings": {
+        "category_link": "https://www.glamira.com/links-collection-rings/",
+        "category_id": 1076
+    },
+    "links-collection-earrings": {
+        "category_link": "https://www.glamira.com/links-collection-earrings/",
+        "category_id": 1078
+    },
+    "apple-watch-straps": {
+        "category_link": "https://www.glamira.com/apple-watch-straps/",
+        "category_id": 1065
+    },
+    "apple-watch-cases-&-straps-tech-jewellery": {
+        "category_link": "https://www.glamira.com/apple-watch-cases-&-straps-tech-jewellery/",
+        "category_id": 1081
+    },
+    "turquoise-journey": {
+        "category_link": "https://www.glamira.com/turquoise-journey/",
+        "category_id": 1082
+    },
+    "rings-turquoise-journey": {
+        "category_link": "https://www.glamira.com/rings-turquoise-journey/",
+        "category_id": 1083
+    },
+    "necklaces-turquoise-journey": {
+        "category_link": "https://www.glamira.com/necklaces-turquoise-journey/",
+        "category_id": 1084
+    },
+    "bracelets-turquoise-journey": {
+        "category_link": "https://www.glamira.com/bracelets-turquoise-journey/",
+        "category_id": 1086
+    },
+    "earrings-turquoise-journey": {
+        "category_link": "https://www.glamira.com/earrings-turquoise-journey/",
+        "category_id": 1085
+    },
+    "Youthful Shine": {
+        "category_link": "https://www.glamira.com/youthful-shine/",
+        "category_id": 1088
+    },
+    "youthful-shine-kids": {
+        "category_link": "https://www.glamira.com/youthful-shine-kids/",
+        "category_id": 1090
+    },
+    "tamara-lp": {
+        "category_link": "https://www.glamira.com/tamara-lp/",
+        "category_id": 1087
+    },
+    "ear-cuffs-ear-piercings": {
+        "category_link": "https://www.glamira.com/ear-cuffs-ear-piercings/",
+        "category_id": 1052
+    },
+    "youthful-shine-mother-and-daughter": {
+        "category_link": "https://www.glamira.com/youthful-shine-mother-and-daughter/",
+        "category_id": 1092
+    },
+    "glamiras-bride": {
+        "category_link": "https://www.glamira.com/glamiras-bride/",
+        "category_id": 1093
+    },
+    "youthful-shine-teens": {
+        "category_link": "https://www.glamira.com/youthful-shine-teens/",
+        "category_id": 1091
+    },
+    "glamiras-bride-rings": {
+        "category_link": "https://www.glamira.com/glamiras-bride-rings/",
+        "category_id": 1094
+    },
+    "glamiras-bride-earrings": {
+        "category_link": "https://www.glamira.com/glamiras-bride-earrings/",
+        "category_id": 1097
+    },
+    "glamiras-bride-sets": {
+        "category_link": "https://www.glamira.com/glamiras-bride-sets/",
+        "category_id": 1095
+    },
+    "glamiras-bride-necklaces": {
+        "category_link": "https://www.glamira.com/glamiras-bride-necklaces/",
+        "category_id": 1096
+    },
+    "mix-and-match": {
+        "category_link": "https://www.glamira.com/mix-and-match/",
+        "category_id": 1100
+    },
+    "glamiras-bride-bracelets": {
+        "category_link": "https://www.glamira.com/glamiras-bride-bracelets/",
+        "category_id": 1098
+    },
+    "mix-and-match-rings": {
+        "category_link": "https://www.glamira.com/mix-and-match-rings/",
+        "category_id": 1101
+    },
+    "mix-and-match-necklaces": {
+        "category_link": "https://www.glamira.com/mix-and-match-necklaces/",
+        "category_id": 1102
+    },
+    "mix-and-match-ear-piercings": {
+        "category_link": "https://www.glamira.com/mix-and-match-ear-piercings/",
+        "category_id": 1104
+    },
+    "mix-and-match-accessories": {
+        "category_link": "https://www.glamira.com/mix-and-match-accessories/",
+        "category_id": 1106
+    },
+    "glamiras-bride-wedding-rings": {
+        "category_link": "https://www.glamira.com/glamiras-bride-wedding-rings/",
+        "category_id": 1099
+    },
+    "mix-and-match-earrings": {
+        "category_link": "https://www.glamira.com/mix-and-match-earrings/",
+        "category_id": 1103
+    },
+    "mix-and-match-bracelets": {
+        "category_link": "https://www.glamira.com/mix-and-match-bracelets/",
+        "category_id": 1105
+    },
+    "JOY": {
+        "category_link": "https://www.glamira.com/joy/",
+        "category_id": 1107
+    },
+    "joy-rings": {
+        "category_link": "https://www.glamira.com/joy-rings/",
+        "category_id": 1108
+    },
+    "joy-earrings": {
+        "category_link": "https://www.glamira.com/joy-earrings/",
+        "category_id": 1110
+    },
+    "joy-necklaces": {
+        "category_link": "https://www.glamira.com/joy-necklaces/",
+        "category_id": 1109
+    },
+    "joy-bracelets": {
+        "category_link": "https://www.glamira.com/joy-bracelets/",
+        "category_id": 1111
+    },
+    "pearl-bracelets": {
+        "category_link": "https://www.glamira.com/pearl-bracelets/",
+        "category_id": 1112
+    },
+    "minimalist": {
+        "category_link": "https://www.glamira.com/minimalist/",
+        "category_id": 1113
+    },
+    "minimalist-bracelets": {
+        "category_link": "https://www.glamira.com/minimalist-bracelets/",
+        "category_id": 1117
+    },
+    "neon-vibes-rings": {
+        "category_link": "https://www.glamira.com/neon-vibes-rings/",
+        "category_id": 1131
+    },
+    "minimalist-necklaces": {
+        "category_link": "https://www.glamira.com/minimalist-necklaces/",
+        "category_id": 1115
+    },
+    "minimalist-earrings": {
+        "category_link": "https://www.glamira.com/minimalist-earrings/",
+        "category_id": 1116
+    },
+    "neon-vibes-necklaces": {
+        "category_link": "https://www.glamira.com/neon-vibes-necklaces/",
+        "category_id": 1132
+    },
+    "neon-vibes-earrings": {
+        "category_link": "https://www.glamira.com/neon-vibes-earrings/",
+        "category_id": 1133
+    },
+    "neon-vibes-bracelets": {
+        "category_link": "https://www.glamira.com/neon-vibes-bracelets/",
+        "category_id": 1134
+    },
+    "minimalist-rings": {
+        "category_link": "https://www.glamira.com/minimalist-rings/",
+        "category_id": 1114
+    },
+    "neon-vibes-brooches": {
+        "category_link": "https://www.glamira.com/neon-vibes-brooches/",
+        "category_id": 1135
+    },
+    "Nature Planet": {
+        "category_link": "https://www.glamira.com/nature-planet/",
+        "category_id": 1136
+    },
+    "nature-planet-necklaces": {
+        "category_link": "https://www.glamira.com/nature-planet-necklaces/",
+        "category_id": 1138
+    },
+    "nature-planet-rings": {
+        "category_link": "https://www.glamira.com/nature-planet-rings/",
+        "category_id": 1137
+    },
+    "nature-planet-bracelets": {
+        "category_link": "https://www.glamira.com/nature-planet-bracelets/",
+        "category_id": 1140
+    },
+    "nature-planet-earrings": {
+        "category_link": "https://www.glamira.com/nature-planet-earrings/",
+        "category_id": 1139
+    }
+}
